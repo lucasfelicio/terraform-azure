@@ -42,3 +42,7 @@ terraform destroy
 ```
 Este comando para e destroi todos os objetos gerenciados por uma configuração do terraform.
 
+___
+
+Copyright (c) 2024 Lucas Felício
+
