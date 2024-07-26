@@ -1,3 +1,0 @@
-- terraform init: este comando inicializa um diretório de trabalho contendo arquivos de configuração do Terraform. Este é o primeiro comando que deve ser executado após escrever uma nova configuração do Terraform ou clonar uma existente do controle de versão
-- terraform plan: este comando cria um plano de execução, que permite que você visualize as alterações que o Terraform planeja fazer na sua infraestrutura. 
-- terraform apply: este comando executa as ações propostas em um plano do Terraform.
