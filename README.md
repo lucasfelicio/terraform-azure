@@ -1,2 +1,5 @@
-# terraform-azure
-Projeto de estudo do Terraform com Azure.
+# Terraform on Azure
+
+<img src="/assets/azure-terraform.png">
+
+___
