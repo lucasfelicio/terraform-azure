@@ -12,13 +12,19 @@ terraform init
 ```
 Este comando inicializa um diretório de trabalho contendo arquivos de configuração do Terraform com base no provider utilizado. <b>Este é o primeiro comando que deve ser executado após escrever uma nova configuração do Terraform ou clonar uma existente do controle de versão.</b>
 
-### 2. Plan
+### 2. Validate
+```bash
+terraform validade
+```
+Este comando executa verificações que validam se uma configuração é sintaticamente válida e internamente consistente, independentemente de quaisquer variáveis ​​fornecidas ou estado existente
+
+### 3. Plan
 ```bash
 terraform plan
 ```
 Este comando cria um plano de execução, permitindo que você visualize as alterações que o Terraform planeja fazer na sua infraestrutura. Ele simula um apply sem executar efetivamente.
 
-### 3. Apply
+### 4. Apply
 ```bash
 terraform apply
 ```
