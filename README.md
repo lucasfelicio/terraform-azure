@@ -1,6 +1,6 @@
 # Terraform on Azure
 
-<img src="/assets/azure-terraform.png">
+<img src="/assets/Terraform-Azure.jpg">
 
 ___
 

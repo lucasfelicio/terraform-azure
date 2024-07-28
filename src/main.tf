@@ -17,3 +17,11 @@ resource "azurerm_resource_group" "rg" {
     location = "eastus"
   
 }
+
+# Deploy Azure Key Vault
+
+# Deploy Azure Data Factory
+
+# Deploy Azure Storage Account
+
+# Deploy Azure Databricks
